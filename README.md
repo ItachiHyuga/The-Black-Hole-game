@@ -3,6 +3,8 @@
 A submission for js13kGames.
 
 A short game built on Ga engine for Js13kGames JavaScript coding competition.
+
+[Play the game](https://js13kgames.com/games/the-black-hole/index.html)
  
 -----------------------------
 
