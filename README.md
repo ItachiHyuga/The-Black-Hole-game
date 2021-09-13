@@ -9,7 +9,8 @@ A short game built on Ga engine for Js13kGames JavaScript coding competition.
 ## GAME DESCRIPTION
 
 ### ABOUT
- To cross a level you need to devour all the planets. Devouring a planet increases your size. If you touch the edges, the level ends. 
+
+You are a Black Hole drifting through space. To cross a level you need to devour all the planets. Devouring a planet increases your size. Don't touch the edges or the Black Hole will implode.
 
 ### CONTROLS
  Arrow Keys: Move
@@ -26,6 +27,8 @@ A short game built on Ga engine for Js13kGames JavaScript coding competition.
  
  Once you hit a wall, certain score is deducted regardless of the level, as a price to replay that level. If the score ever hits zero, the game restarts from level 1.
  
+ 
+#### Have fun!
 -----------------------------
 
 ## SPECIAL THANKS
@@ -41,8 +44,6 @@ A short game built on Ga engine for Js13kGames JavaScript coding competition.
  The sounds I have taken from https://xem.github.io/MiniSoundEditor/ with some minor changes of my own. 
  
 -----------------------------
-
-## INTRODUCTION
 
 I am just a beginner at this, so most of my code might not be the shortest or the most efficient. But I have made an effort to make it readable and comments become a basic part of that. 
 
