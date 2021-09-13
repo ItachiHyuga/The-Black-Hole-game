@@ -94,7 +94,7 @@ let b, //Black Hole sprite
 
 let speed = 4; //speed of blackhole per level
 
-let howmuchfood = 2; //Planets are reffered to as food for blackhole. How many planets needed to be devoured to progress to the next level.
+let howmuchfood = 15; //Planets are reffered to as food for blackhole. How many planets needed to be devoured to progress to the next level.
 
 let level = 1;
 
