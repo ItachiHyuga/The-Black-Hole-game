@@ -3,7 +3,8 @@
 A submission for js13kGames.
 
 
- A short game built on Ga engine for Js13kGames JavaScript coding competition. 
+ *A short game built on Ga engine for Js13kGames JavaScript coding competition. *
+ 
 -----------------------------
 
 ## GAME DESCRIPTION
@@ -28,7 +29,7 @@ A submission for js13kGames.
  
 -----------------------------
 
-### SPECIAL THANKS
+## SPECIAL THANKS
 
  I would not have worked on this game was it not for Anya. Many thanks to her for the various, suggestions and consistent grinding of the game which inevitably became the motivation for finishing the challenge.
  
@@ -42,7 +43,7 @@ A submission for js13kGames.
  
 -----------------------------
 
-### INTRODUCTION
+## INTRODUCTION
 
 I am just a beginner at this, so most of my code might not be the shortest or the most efficient. But I have made an effort to make it readable and comments become a basic part of that. 
 
