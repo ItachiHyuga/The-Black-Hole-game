@@ -2,8 +2,7 @@
 
 A submission for js13kGames.
 
-
- *A short game built on Ga engine for Js13kGames JavaScript coding competition. *
+A short game built on Ga engine for Js13kGames JavaScript coding competition.
  
 -----------------------------
 
